@@ -1,0 +1,5 @@
+﻿  VeriYapilari.cpp
+C:\Users\talha\source\repos\VeriYapilari\VeriYapilari\VeriYapilari.cpp(82,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\talha\source\repos\VeriYapilari\VeriYapilari\VeriYapilari.cpp(86,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\talha\source\repos\VeriYapilari\VeriYapilari\VeriYapilari.cpp(111,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  VeriYapilari.vcxproj -> C:\Users\talha\source\repos\VeriYapilari\Debug\VeriYapilari.exe
